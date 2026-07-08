@@ -171,17 +171,11 @@ Interactive filtering and visual analytics reduce manual reporting effort and im
 
 ---
 
-## 10.  Repository Structure
+## 10.	  Screenshots / Demos
 
-```text
-sales-performance-dashboard/
-│
-├── Sales Dashboard.pbix
-├── dashboard.png
-├── README.md
-└── dataset.xls
-
-## 11.	  Screenshots / Demos
 Dashboard Preview (https://github.com/woekdin123/Sales-performance-dashboard/blob/main/sales-performance-dashboard.png)
+
+
+
 
  
